@@ -9,10 +9,10 @@
 }
 
 .formm {
-  margin-top: 4rem;
+  margin-top: 5%;
   border-radius: 2rem;
   background-color: #d3d3d394;
-  margin-left: 6.5rem;
+  margin-left: 5%;
   padding: 2rem;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9);
   width: 40%;
@@ -31,6 +31,7 @@
 {
   box-sizing: border-box;
   width: 100%;
+  margin-top:7%;
 }
 
 
@@ -41,7 +42,7 @@
     display: none;
   }
   .formm{
-    margin: 70px;
+/*     margin: 70px; */
     width: 90%;
     height: 65vh;
   }
